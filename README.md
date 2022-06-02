@@ -34,7 +34,7 @@ The Application was developed in the Android Studio Integrated Development Envir
 <img align="center"  src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/erroFocus_list.gif?raw=true"> <br>
 
 
-___
+##
 
 #### Tools for Development:
 * Need to install [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/).
@@ -44,7 +44,7 @@ ___
 * **SO:** Windows/Linux (64-bit Required)
 * RAM: 8GB
 
-___
+##
 
 #### Android Requirements:
 * Version: 8.0 Oreo or superior
