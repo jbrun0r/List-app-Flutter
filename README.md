@@ -49,3 +49,4 @@ The Application was developed in the Android Studio Integrated Development Envir
 #### Android Requirements:
 * Version: 8.0 Oreo or superior
 * APK: 18MB
+* [Download APK](https://github.com/jbrun0r/List-app-Flutter/blob/APK/app-release.apk) 
