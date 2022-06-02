@@ -1,7 +1,7 @@
 # To-do List - _Flutter_
 
 <div style="display inline_block">
-<img align="right" width="266"  src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/list_App.gif?raw=true">
+<img align="right" width="255"  src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/list_App.gif?raw=true">
   
 
 
@@ -38,4 +38,14 @@ ___
 
 #### Tools for Development:
 Need to install [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/).
-* **SO:** Windows 10/11 (64-bit Required)
+* Flutter/Dart
+* JDK: Java Development Kit (JDK) 6/7/8/9/10/11/12 or superior
+* Android SDK: 4,5GB
+* **SO:** Windows/Linux (64-bit Required)
+* RAM: 8GB
+
+___
+
+### Android Requirements:
+* Version: 8.0 Oreo or superior
+* APK: 18MB
