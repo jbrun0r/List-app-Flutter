@@ -37,7 +37,7 @@ The Application was developed in the Android Studio Integrated Development Envir
 ___
 
 #### Tools for Development:
-Need to install [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/).
+* Need to install [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/).
 * Flutter/Dart
 * JDK: Java Development Kit (JDK) 6/7/8/9/10/11/12 or superior
 * Android SDK: 4,5GB
@@ -46,6 +46,6 @@ Need to install [Android Studio](https://developer.android.com/studio) or [VS Co
 
 ___
 
-### Android Requirements:
+#### Android Requirements:
 * Version: 8.0 Oreo or superior
 * APK: 18MB
