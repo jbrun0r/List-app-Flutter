@@ -17,7 +17,7 @@ After developing a Mobile Application of decentralized information with **Flutte
 
 ##
 #### Complement:
-The Application was developed in the Android Studio Integrated Development Environment, in Dart language, using packages: material.dart; redering.dart; (To improve fluidity and async methods), foundation.dart; flutter_slidable.dart'; manipulating json files and leaving the tasks perennials.
+The Application was developed in the Android Studio Integrated Development Environment, using packages to improve fluidity and asynchronous methods, manipulating json files and making the tasks perennial.
 
 ##
 
