@@ -22,7 +22,11 @@ The Application was developed in the Android Studio Integrated Development Envir
 ##
 
 >#### Writing:
-<img align="center" src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/escrita_list.gif?raw=true"> <br>
+>To add a task is very simple, just type the name assigned to the task and click on the blue add button.
+><br>
+<img align="left" src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/escrita_list.gif?raw=true"> <br>
+
+
 
 >#### Delete all:
 <img align="center" src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/limparTudo_list.gif?raw=true"> <br>
