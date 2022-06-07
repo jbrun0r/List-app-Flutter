@@ -32,7 +32,7 @@ The Application was developed in the Android Studio Integrated Development Envir
 >#### To delete a task individually, just drag it to the left. If you want to undo the action, click on the "Undo" button that will appear triumphantly.
 <img align="center"  src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/desfazer_list.gif?raw=true"> <br>
 ##
->#### Focus Error:
+>#### Focus Error: Unable to insert an unnamed task. A warning will appear and the focus will turn red.
 <img align="center"  src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/erroFocus_list.gif?raw=true"> <br>
 
 
