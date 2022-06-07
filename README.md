@@ -29,7 +29,7 @@ The Application was developed in the Android Studio Integrated Development Envir
 >#### On the left side we have the amount of pending tasks and after completing all tasks, to delete them just click the "Clear All" button and all tasks will be deleted.
 <img align="center" src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/limparTudo_list.gif?raw=true"> <br>
 ##
->#### Erase and Undol:
+>#### To delete a task individually, just drag it to the left. If you want to undo the action, click on the "Undo" button that will appear triumphantly.
 <img align="center"  src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/desfazer_list.gif?raw=true"> <br>
 ##
 >#### Focus Error:
