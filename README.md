@@ -23,10 +23,10 @@ The Application was developed in the Android Studio Integrated Development Envir
 
 
 
->#### Writing: To add a task is very simple, just type the name assigned to the task and click on the blue add button.
+>#### To add a task is very simple, just type the name assigned to the task and click on the blue add button.
 <img align="center" src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/escrita_list.gif?raw=true"> <br>
 ##
->#### Delete all: After completing all tasks, to delete them just click the "Clear All" button and all tasks will be deleted.
+>#### On the left side we have the amount of pending tasks and after completing all tasks, to delete them just click the "Clear All" button and all tasks will be deleted.
 <img align="center" src="https://github.com/jbrun0r/List-app-Flutter/blob/gifs/limparTudo_list.gif?raw=true"> <br>
 ##
 >#### Erase and Undol:
